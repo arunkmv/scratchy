@@ -1,0 +1,5 @@
+#+title: scratchy.el - A persistent scratch buffer utility for Emacs
+#+author: Arunkumar Vaidyanathan
+#+language: en
+
+This package provides tools to manage persistent scratch buffers in Emacs.
